@@ -2,6 +2,8 @@
 
 **By MD. Sakib Al Hasan** · [Portfolio](https://sakibzzz641.github.io) · [GitHub](https://github.com/sakibzzz641) · [LinkedIn](https://www.linkedin.com/in/sakibzzz641)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 An end-to-end EDA of US Superstore retail orders (2015-2018) using **Python (Pandas, Matplotlib, Seaborn)**. The project covers data wrangling, missing-value profiling, and analysis of purchase volume, monthly seasonality, category-wise revenue and discount sensitivity, and ends with five executive takeaways.
 
 ## Key Numbers
@@ -14,12 +16,19 @@ An end-to-end EDA of US Superstore retail orders (2015-2018) using **Python (Pan
 | Total profit | $286K |
 | Overall profit margin | 12.5% |
 
-## Business Questions
+## Business Key Points
 
-1. Which categories, regions and segments drive revenue and profit?
-2. How seasonal are sales across the year?
-3. How do discounts affect profitability?
-4. Who are the top customers and how much does a typical customer buy?
+| Area | Key Point |
+|---|---|
+| Top category | Technology leads with $836K sales and $145K profit |
+| Weak category | Furniture: $741.7K sales (about 32% of total) but only a 2.5% margin |
+| Loss-making sub-categories | Tables (-$17.7K), Bookcases (-$3.5K), Supplies (-$1.2K) |
+| Best sub-category | Copiers, with $55.6K profit |
+| Discounts | Average profit per line item turns negative above 20% discount (-$78.0 at 21-40%) |
+| Seasonality | November, December and September peak; January and February are weakest |
+| Growth | Annual sales rose from $484K (2015) to $733K (2018) |
+| Regions | West 14.9% margin, East 13.5%, Central only 7.9% |
+| Segments | Home Office 14.0%, Corporate 13.0%, Consumer 11.5% |
 
 ## Data Cleaning Summary
 
@@ -103,4 +112,4 @@ Explore my projects, technical skills, and professional profile.
 
 ---
 
-*If you find this project useful, feel free to 
+*If you find this project useful, feel free to
