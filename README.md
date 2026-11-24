@@ -1,3 +1,5 @@
+![Superstore Retail Sales EDA cover](images/00_cover.png)
+
 # Superstore Retail Sales: Exploratory Data Analysis
 
 **By MD. Sakib Al Hasan** · [Portfolio](https://sakibzzz641.github.io) · [GitHub](https://github.com/sakibzzz641) · [LinkedIn](https://www.linkedin.com/in/sakibzzz641)
